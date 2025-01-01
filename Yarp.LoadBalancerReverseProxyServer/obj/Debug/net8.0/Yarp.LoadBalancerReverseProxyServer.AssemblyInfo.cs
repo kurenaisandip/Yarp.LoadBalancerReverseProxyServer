@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Yarp.LoadBalancerReverseProxyServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15b50903d81405ad272a938566c9c7b5c437933e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7de0485ec4ddf805a51f47f6df3d4722cda42bc5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Yarp.LoadBalancerReverseProxyServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Yarp.LoadBalancerReverseProxyServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
