@@ -1,0 +1,6 @@
+@Yarp.LoadBalancerReverseProxyServer_HostAddress = http://localhost:5030
+
+GET {{Yarp.LoadBalancerReverseProxyServer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
