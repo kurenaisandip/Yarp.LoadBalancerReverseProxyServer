@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3EXgQe7lUsEiVf6/utrjbBkz16LbLrtJN0seYtILKzI=",
+  "Source": "Yarp.LoadBalancerReverseProxyServer",
+  "BasePath": "_content/Yarp.LoadBalancerReverseProxyServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
