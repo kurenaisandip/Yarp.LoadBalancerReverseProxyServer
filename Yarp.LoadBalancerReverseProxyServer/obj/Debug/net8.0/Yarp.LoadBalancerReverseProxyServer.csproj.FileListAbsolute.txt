@@ -36,3 +36,41 @@ C:\Users\ACER\RiderProjects\Yarp.LoadBalancerReverseProxyServer\Yarp.LoadBalance
 C:\Users\ACER\RiderProjects\Yarp.LoadBalancerReverseProxyServer\Yarp.LoadBalancerReverseProxyServer\obj\Debug\net8.0\ref\Yarp.LoadBalancerReverseProxyServer.dll
 C:\Users\ACER\RiderProjects\Yarp.LoadBalancerReverseProxyServer\Yarp.LoadBalancerReverseProxyServer\bin\Debug\net8.0\AspNetCoreRateLimit.dll
 C:\Users\ACER\RiderProjects\Yarp.LoadBalancerReverseProxyServer\Yarp.LoadBalancerReverseProxyServer\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Personal Projects\Yarp.LoadBalancerReverseProxyServer\Yarp.LoadBalancerReverseProxyServer\bin\Debug\net8.0\appsettings.json
+D:\Personal Projects\Yarp.LoadBalancerReverseProxyServer\Yarp.LoadBalancerReverseProxyServer\bin\Debug\net8.0\appsettings.Development.json
+D:\Personal Projects\Yarp.LoadBalancerReverseProxyServer\Yarp.LoadBalancerReverseProxyServer\bin\Debug\net8.0\Yarp.LoadBalancerReverseProxyServer.exe
+D:\Personal Projects\Yarp.LoadBalancerReverseProxyServer\Yarp.LoadBalancerReverseProxyServer\bin\Debug\net8.0\Yarp.LoadBalancerReverseProxyServer.deps.json
+D:\Personal Projects\Yarp.LoadBalancerReverseProxyServer\Yarp.LoadBalancerReverseProxyServer\bin\Debug\net8.0\Yarp.LoadBalancerReverseProxyServer.runtimeconfig.json
+D:\Personal Projects\Yarp.LoadBalancerReverseProxyServer\Yarp.LoadBalancerReverseProxyServer\bin\Debug\net8.0\Yarp.LoadBalancerReverseProxyServer.dll
+D:\Personal Projects\Yarp.LoadBalancerReverseProxyServer\Yarp.LoadBalancerReverseProxyServer\bin\Debug\net8.0\Yarp.LoadBalancerReverseProxyServer.pdb
+D:\Personal Projects\Yarp.LoadBalancerReverseProxyServer\Yarp.LoadBalancerReverseProxyServer\bin\Debug\net8.0\AspNetCoreRateLimit.dll
+D:\Personal Projects\Yarp.LoadBalancerReverseProxyServer\Yarp.LoadBalancerReverseProxyServer\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Personal Projects\Yarp.LoadBalancerReverseProxyServer\Yarp.LoadBalancerReverseProxyServer\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Personal Projects\Yarp.LoadBalancerReverseProxyServer\Yarp.LoadBalancerReverseProxyServer\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Personal Projects\Yarp.LoadBalancerReverseProxyServer\Yarp.LoadBalancerReverseProxyServer\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Personal Projects\Yarp.LoadBalancerReverseProxyServer\Yarp.LoadBalancerReverseProxyServer\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Personal Projects\Yarp.LoadBalancerReverseProxyServer\Yarp.LoadBalancerReverseProxyServer\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Personal Projects\Yarp.LoadBalancerReverseProxyServer\Yarp.LoadBalancerReverseProxyServer\bin\Debug\net8.0\System.IO.Hashing.dll
+D:\Personal Projects\Yarp.LoadBalancerReverseProxyServer\Yarp.LoadBalancerReverseProxyServer\bin\Debug\net8.0\Yarp.ReverseProxy.dll
+D:\Personal Projects\Yarp.LoadBalancerReverseProxyServer\Yarp.LoadBalancerReverseProxyServer\obj\Debug\net8.0\Yarp.LoadBalancerReverseProxyServer.csproj.AssemblyReference.cache
+D:\Personal Projects\Yarp.LoadBalancerReverseProxyServer\Yarp.LoadBalancerReverseProxyServer\obj\Debug\net8.0\Yarp.LoadBalancerReverseProxyServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Projects\Yarp.LoadBalancerReverseProxyServer\Yarp.LoadBalancerReverseProxyServer\obj\Debug\net8.0\Yarp.LoadBalancerReverseProxyServer.AssemblyInfoInputs.cache
+D:\Personal Projects\Yarp.LoadBalancerReverseProxyServer\Yarp.LoadBalancerReverseProxyServer\obj\Debug\net8.0\Yarp.LoadBalancerReverseProxyServer.AssemblyInfo.cs
+D:\Personal Projects\Yarp.LoadBalancerReverseProxyServer\Yarp.LoadBalancerReverseProxyServer\obj\Debug\net8.0\Yarp.LoadBalancerReverseProxyServer.csproj.CoreCompileInputs.cache
+D:\Personal Projects\Yarp.LoadBalancerReverseProxyServer\Yarp.LoadBalancerReverseProxyServer\obj\Debug\net8.0\Yarp.LoadBalancerReverseProxyServer.MvcApplicationPartsAssemblyInfo.cs
+D:\Personal Projects\Yarp.LoadBalancerReverseProxyServer\Yarp.LoadBalancerReverseProxyServer\obj\Debug\net8.0\Yarp.LoadBalancerReverseProxyServer.MvcApplicationPartsAssemblyInfo.cache
+D:\Personal Projects\Yarp.LoadBalancerReverseProxyServer\Yarp.LoadBalancerReverseProxyServer\obj\Debug\net8.0\Yarp.LoadBalancerReverseProxyServer.sourcelink.json
+D:\Personal Projects\Yarp.LoadBalancerReverseProxyServer\Yarp.LoadBalancerReverseProxyServer\obj\Debug\net8.0\staticwebassets.build.json
+D:\Personal Projects\Yarp.LoadBalancerReverseProxyServer\Yarp.LoadBalancerReverseProxyServer\obj\Debug\net8.0\staticwebassets.development.json
+D:\Personal Projects\Yarp.LoadBalancerReverseProxyServer\Yarp.LoadBalancerReverseProxyServer\obj\Debug\net8.0\staticwebassets\msbuild.Yarp.LoadBalancerReverseProxyServer.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Personal Projects\Yarp.LoadBalancerReverseProxyServer\Yarp.LoadBalancerReverseProxyServer\obj\Debug\net8.0\staticwebassets\msbuild.build.Yarp.LoadBalancerReverseProxyServer.props
+D:\Personal Projects\Yarp.LoadBalancerReverseProxyServer\Yarp.LoadBalancerReverseProxyServer\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Yarp.LoadBalancerReverseProxyServer.props
+D:\Personal Projects\Yarp.LoadBalancerReverseProxyServer\Yarp.LoadBalancerReverseProxyServer\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Yarp.LoadBalancerReverseProxyServer.props
+D:\Personal Projects\Yarp.LoadBalancerReverseProxyServer\Yarp.LoadBalancerReverseProxyServer\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Personal Projects\Yarp.LoadBalancerReverseProxyServer\Yarp.LoadBalancerReverseProxyServer\obj\Debug\net8.0\scopedcss\bundle\Yarp.LoadBalancerReverseProxyServer.styles.css
+D:\Personal Projects\Yarp.LoadBalancerReverseProxyServer\Yarp.LoadBalancerReverseProxyServer\obj\Debug\net8.0\Yarp.Loa.16A26E70.Up2Date
+D:\Personal Projects\Yarp.LoadBalancerReverseProxyServer\Yarp.LoadBalancerReverseProxyServer\obj\Debug\net8.0\Yarp.LoadBalancerReverseProxyServer.dll
+D:\Personal Projects\Yarp.LoadBalancerReverseProxyServer\Yarp.LoadBalancerReverseProxyServer\obj\Debug\net8.0\refint\Yarp.LoadBalancerReverseProxyServer.dll
+D:\Personal Projects\Yarp.LoadBalancerReverseProxyServer\Yarp.LoadBalancerReverseProxyServer\obj\Debug\net8.0\Yarp.LoadBalancerReverseProxyServer.pdb
+D:\Personal Projects\Yarp.LoadBalancerReverseProxyServer\Yarp.LoadBalancerReverseProxyServer\obj\Debug\net8.0\Yarp.LoadBalancerReverseProxyServer.genruntimeconfig.cache
+D:\Personal Projects\Yarp.LoadBalancerReverseProxyServer\Yarp.LoadBalancerReverseProxyServer\obj\Debug\net8.0\ref\Yarp.LoadBalancerReverseProxyServer.dll
